@@ -24,3 +24,7 @@ A simple flash card application built with React to help you learn about state m
 - **HTML & CSS:** For structuring and styling the application.
 - **JavaScript (ES6):** Core language for building interactive features.
 - **React:** A modern JavaScript library for building user interfaces using component-based architecture.
+
+## Project
+
+For a detailed roadmap on building this Flash Cards project, please refer to the [Flash Cards Project Roadmap](https://roadmap.sh/projects/flash-cards).
